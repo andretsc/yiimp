@@ -134,4 +134,6 @@ Thanks to globalzon to have released the initial Yaamp source code.
 You can support this project donating to tpruvot :
 
 BTC : 1Auhps1mHZQpoX4mCcVL8odU81VakZQ6dR
-
+	Or Me Andre
+BTC : 32hGvCcmwof9hiybjM6kLpUk9J7yVtyjc8
+LTC : LS53MePh9jt3X2TTteBw1tibbQBsRRrcCT
